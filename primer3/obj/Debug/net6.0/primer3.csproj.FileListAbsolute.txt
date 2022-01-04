@@ -1,0 +1,15 @@
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer3\bin\Debug\net6.0\primer3.exe
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer3\bin\Debug\net6.0\primer3.deps.json
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer3\bin\Debug\net6.0\primer3.runtimeconfig.json
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer3\bin\Debug\net6.0\primer3.dll
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer3\bin\Debug\net6.0\ref\primer3.dll
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer3\bin\Debug\net6.0\primer3.pdb
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer3\obj\Debug\net6.0\primer3.csproj.AssemblyReference.cache
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer3\obj\Debug\net6.0\primer3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer3\obj\Debug\net6.0\primer3.AssemblyInfoInputs.cache
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer3\obj\Debug\net6.0\primer3.AssemblyInfo.cs
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer3\obj\Debug\net6.0\primer3.csproj.CoreCompileInputs.cache
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer3\obj\Debug\net6.0\primer3.dll
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer3\obj\Debug\net6.0\ref\primer3.dll
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer3\obj\Debug\net6.0\primer3.pdb
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer3\obj\Debug\net6.0\primer3.genruntimeconfig.cache
