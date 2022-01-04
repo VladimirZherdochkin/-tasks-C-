@@ -1,4 +1,5 @@
 ﻿//По заданному номеру дня недели вывести его название
+
 Console.WriteLine("Введите номер дня недели - ");
 int day = Convert.ToInt32(Console.ReadLine());
 switch (day)
@@ -10,5 +11,6 @@ switch (day)
     case 5: Console.WriteLine("пятница"); break;
     case 6: Console.WriteLine("суббота"); break;
     case 7: Console.WriteLine("воскресенье"); break;
-    default: Console.WriteLine("ВЫ ОШИБЛИСЬ"); break;
+    default: Console.WriteLine("В неделе только семь"); break;
 }
+
