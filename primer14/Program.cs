@@ -1,12 +1,12 @@
 ﻿//Найти третью цифру числа или сообщить, что её нет
 Console.WriteLine("Введите число");
 int a = Convert.ToInt32(Console.ReadLine());
-if(99<a)
+if (100 > a)
 {
-    int result = a % 10;
-    Console.WriteLine(result);
+    Console.WriteLine("Нет третьей цифры!");
 }
 else
 {
-    Console.WriteLine("Последней цифры нет");
+    string y = Convert.ToString(a);
+    Console.WriteLine(y[2]);
 }
