@@ -1,0 +1,15 @@
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer11\obj\Debug\net6.0\primer11.csproj.AssemblyReference.cache
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer11\obj\Debug\net6.0\primer11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer11\obj\Debug\net6.0\primer11.AssemblyInfoInputs.cache
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer11\obj\Debug\net6.0\primer11.AssemblyInfo.cs
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer11\obj\Debug\net6.0\primer11.csproj.CoreCompileInputs.cache
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer11\bin\Debug\net6.0\primer11.exe
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer11\bin\Debug\net6.0\primer11.deps.json
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer11\bin\Debug\net6.0\primer11.runtimeconfig.json
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer11\bin\Debug\net6.0\primer11.dll
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer11\bin\Debug\net6.0\ref\primer11.dll
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer11\bin\Debug\net6.0\primer11.pdb
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer11\obj\Debug\net6.0\primer11.dll
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer11\obj\Debug\net6.0\ref\primer11.dll
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer11\obj\Debug\net6.0\primer11.pdb
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\primer11\obj\Debug\net6.0\primer11.genruntimeconfig.cache
