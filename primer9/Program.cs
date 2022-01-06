@@ -6,3 +6,7 @@ if (99 < a && a < 1000)
     int result = a % 10;
     Console.WriteLine(result);
 }
+else
+{
+    Console.WriteLine("Ввели число не соответсвующее условию");
+}
