@@ -1,0 +1,15 @@
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\zadacha24\bin\Debug\net6.0\zadacha24.exe
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\zadacha24\bin\Debug\net6.0\zadacha24.deps.json
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\zadacha24\bin\Debug\net6.0\zadacha24.runtimeconfig.json
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\zadacha24\bin\Debug\net6.0\zadacha24.dll
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\zadacha24\bin\Debug\net6.0\ref\zadacha24.dll
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\zadacha24\bin\Debug\net6.0\zadacha24.pdb
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\zadacha24\obj\Debug\net6.0\zadacha24.csproj.AssemblyReference.cache
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\zadacha24\obj\Debug\net6.0\zadacha24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\zadacha24\obj\Debug\net6.0\zadacha24.AssemblyInfoInputs.cache
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\zadacha24\obj\Debug\net6.0\zadacha24.AssemblyInfo.cs
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\zadacha24\obj\Debug\net6.0\zadacha24.csproj.CoreCompileInputs.cache
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\zadacha24\obj\Debug\net6.0\zadacha24.dll
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\zadacha24\obj\Debug\net6.0\ref\zadacha24.dll
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\zadacha24\obj\Debug\net6.0\zadacha24.pdb
+C:\Users\Володя\Desktop\Курс Разработчик\Zadachi\zadacha24\obj\Debug\net6.0\zadacha24.genruntimeconfig.cache
