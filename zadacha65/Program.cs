@@ -1,4 +1,10 @@
-﻿int[,] CreateSpiralArray(int rowLength, int colLength)
+﻿//Спирально заполнить двумерный массив:
+//   1  2  3  4
+//  12 13 14  5
+//  11 16 15  6
+//  10  9  8  7 
+
+int[,] CreateSpiralArray(int rowLength, int colLength)
 {
     int[,] arrayToReturn = new int[colLength, rowLength];
     int number = 0;

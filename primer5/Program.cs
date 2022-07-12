@@ -9,5 +9,5 @@ if (a == 0)
 else
 {
     y = Math.Pow((1 + 1 / a),a);
+    Console.WriteLine($"{y}");
 }
-Console.WriteLine($"{y}");

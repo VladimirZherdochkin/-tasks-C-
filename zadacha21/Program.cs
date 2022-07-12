@@ -14,7 +14,7 @@ int count = 0;
     Console.WriteLine(count);
     if (reverse == number)
     {
-        Console.WriteLine("Your number is a palindrome");
+        Console.WriteLine("Your number is a palindrom");
     }
     else
     {

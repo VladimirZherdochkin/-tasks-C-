@@ -1,4 +1,4 @@
-﻿
+﻿//Найти сумму чисел от 1 до А
 System.Console.WriteLine("Введите число N");
 long N = Convert.ToInt64(Console.ReadLine());
 DateTime dt = DateTime.Now;// текущее время
